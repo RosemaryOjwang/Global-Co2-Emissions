@@ -40,7 +40,7 @@ Granularity: Annual emissions data by country, measured in million tonnes (Mt)
 
 ## Key Visualizations
 📈 Line Chart:
-Shows CO₂ emissions by the top 10 emittor country over time. This helps users compare how emissions have increased or decreased in the countries across decades.
+Shows CO₂ emissions by the top 10 emittor countries over time. This helps users compare how emissions have increased or decreased in the countries across decades.
 
 🌍 Map Visualization:
 A filled map that highlights CO₂ emissions by country. Color intensity represents the scale of emissions, providing a quick global overview.
