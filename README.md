@@ -1,5 +1,6 @@
 # Global CO2 Emissions Dashboard
 
+![Dashboard_Screenshot](image.png)
 ---
 
 ## Overview
